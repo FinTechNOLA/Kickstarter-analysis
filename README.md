@@ -23,7 +23,7 @@ While I experienced no significant challenges in producing this analysis, I woul
 ### Observations
 In my analysis of the campaigns based on their launch date, I noted the following trends: 
 
-1. The most successful launch months for campaigns were in the Spring months  
+1. The most successful launch months for campaigns were in the late Spring and Summer months  
 
 2. There was a seasonal decline in all project launches that reached a nadir in the Fall. At that time, there was also a noticeable absence of canceled campaigns as well in October.
 
